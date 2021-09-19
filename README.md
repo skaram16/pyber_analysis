@@ -4,15 +4,15 @@ Performing an exploratory analysis and creating visualizations using rideshare d
 ---
 
 # Challenge
-The PyBer Summary DataFrame provides an overview comparison of PyBer's ridesharing services in three types of cities: rural, surburban, and urban cities. The summary demonstrates that there is a larger demand for PyBer among riders in urban cities compared to suburban and rural cities. Between January 2019 and May 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. The figure below highlights how rides in Urban cities contributed the most to PyBer's overall rides during this five-month period.
+The PyBer Summary DataFrame provides an overview comparison of PyBer's ride-sharing services in three types of cities: rural, surburban, and urban cities. The summary demonstrates that there is a larger demand for PyBer among riders in urban cities compared to suburban and rural cities. Between January 2019 and May 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. The figure below highlights how rides in Urban cities contributed the most to PyBer's overall rides during this five-month period.
 
 ![% of Total Rides by City Type](analysis/Fig6.png)
 
-On a similar pattern, there was also a larger volume of drivers in urban cities compared to suburban and rural cities. There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure below depicts the significance of drivers in urban cities during this time period.
+On a similar pattern, there was also a larger volume of drivers in urban cities compared to suburban and rural cities. There were 59,602 drivers in urban cities, 8,570 drivers in suburban cities, and 537 drivers in rural cities. Again, the figure below depicts the large significance of drivers in urban cities during this time period.
 
 ![% of Total Drivers by City Type](analysis/Fig7.png)
 
-Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. PyBer transactions in urban cities totaled nearly $40,000 whereas transactions in urban cities and rural cities totaled at least $19,000 and $4,000, respectively. The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
+Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. PyBer transactions in urban cities totaled nearly $40,000 whereas transactions in urban cities and rural cities totaled around $19,500 and $4,500, respectively. The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
 
 ![% of Total Fares by City Type](analysis/Fig5.png)
 
